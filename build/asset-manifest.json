@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%7BCalcApp%7D/static/css/main.3a43470b.css",
+    "main.js": "/%7BCalcApp%7D/static/js/main.005bb1a6.js",
+    "index.html": "/%7BCalcApp%7D/index.html",
+    "main.3a43470b.css.map": "/%7BCalcApp%7D/static/css/main.3a43470b.css.map",
+    "main.005bb1a6.js.map": "/%7BCalcApp%7D/static/js/main.005bb1a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a43470b.css",
+    "static/js/main.005bb1a6.js"
+  ]
+}
